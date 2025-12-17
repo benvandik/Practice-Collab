@@ -4,5 +4,6 @@ class MainView {
         System.out.print("bruh ");
         System.out.println("save ");
         System.out.print("Omer troll bruh ");
+        System.err.println("Pluh ");
     }
 }
