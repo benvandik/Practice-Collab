@@ -1,4 +1,11 @@
 public class logic {
+    logic(){
 
-    system.out.println("hello");
+        System.out.println("hello");
+        System.out.println("helloa");
+        System.out.println("hallo");
+        System.out.println("hello");
+
+    }
+
 }
